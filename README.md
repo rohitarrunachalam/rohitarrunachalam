@@ -3,7 +3,7 @@ I'm a full-stack developer who thrives on building  applications that are both i
 
 ### What I bring to the table:
 
-- Languages & Frameworks: React, Next.js, JavaScript , TypeScript, C/C++, Java, Python, TailwindCSS, Redux Toolkit
+- Languages & Frameworks: Next.js, React, JavaScript , TypeScript, C/C++, Java, Python, TailwindCSS, Redux Toolkit
 - Databases: MongoDB, PostgreSQL, MySQL, Supabase
 - Backend: Node.js, Flask, FastAPI
 - Others: Solidity, Hardhat, Figma, Git/Github, Arduino, Raspberry Pi, Postman
