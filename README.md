@@ -1,29 +1,16 @@
-**Hey there! **
+Hey there , I'm [Rohit] (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧
+I'm a full-stack developer who thrives on building  applications that are both innovative and user-friendly . I bring a wealth of experience to the table, having mastered a diverse range of languages and frameworks  (see below). But for me, development is a never-ending journey , and I'm always eager to learn the next big thing ✨.
 
-I'm a seasoned Full-Stack Developer who thrives on building impactful applications. My passion lies in crafting robust, scalable, and user-friendly experiences across the web and beyond. I'm a firm believer in continuous learning and keep myself sharp by exploring the latest advancements in the tech landscape.
+What I bring to the table:
 
-**My Toolbelt:**
+Languages & Frameworks: JavaScript , TypeScript, React, Next.js, C/C++, Java, Python, TailwindCSS, Redux Toolkit
+Databases: MongoDB, PostgreSQL, MySQL
+Backend: Node.js, Flask, FastAPI, Supabase
+Blockchain: Solidity, Hardhat, web3.js
+Design & Version Control: Figma, Git/Github
+DevOps: Docker, Nginx, Ansible
 
-* **Frontend:** Next.js, React, TypeScript, JavaScript, TailwindCSS
-* **Backend:** C/C++, Java, Python, Flask, FastAPI, Node.js, Supabase
-* **Databases:** MongoDB, PostgreSQL, MySQL
-* **Blockchain:** Solidity, Metamask, Hardhat
-* **DevOps & Tools:** Git/GitHub, Linux, Figma
+Let's Connect!
 
-**What I'm Currently Up To:**
-
-* (Optional: Briefly describe your current projects or interests here to spark conversation)
-
-**Let's Connect!**
-
-Feel free to reach out if you:
-
-* Have an intriguing project you'd like to collaborate on
-* Want to chat about the ever-evolving world of technology
-* Just want to say hello!
-
-**(Optional: Include links to your social media profiles or a contact email address)**
-
-**P.S.**
-
-I'm always looking for ways to improve my craft. If you have any feedback or suggestions, please don't hesitate to share them!
+[Way to my LinkedIn](https://www.linkedin.com/in/rohitarrunachalam/)
+P.S.  I'm always looking for interesting open-source projects to contribute to. If you have any recommendations, let me know!
