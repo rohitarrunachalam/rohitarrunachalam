@@ -3,12 +3,10 @@ I'm a full-stack developer who thrives on building  applications that are both i
 
 ### What I bring to the table:
 
-- Languages & Frameworks: JavaScript , TypeScript, React, Next.js, C/C++, Java, Python, TailwindCSS, Redux Toolkit
-- Databases: MongoDB, PostgreSQL, MySQL
-- Backend: Node.js, Flask, FastAPI, Supabase
-- Blockchain: Solidity, Hardhat, web3.js
-- Design & Version Control: Figma, Git/Github
-- DevOps: Docker, Nginx, Ansible
+- Languages & Frameworks: React, Next.js, JavaScript , TypeScript, C/C++, Java, Python, TailwindCSS, Redux Toolkit
+- Databases: MongoDB, PostgreSQL, MySQL, Supabase
+- Backend: Node.js, Flask, FastAPI
+- Others: Solidity, Hardhat, Figma, Git/Github, Arduino, Raspberry Pi, Postman
 
 ### Let's Connect!
 
